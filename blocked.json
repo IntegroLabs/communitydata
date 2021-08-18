@@ -1,0 +1,151 @@
+[{
+	"symbol": "YOU",
+	"tokenAddress": "KT1J68zNxjpCdvJTBuQXC77BgivbF1Hbkz7b",
+	"tokenId": 0,
+	"reason": 409
+},
+{
+	"symbol": "uUSD",
+	"tokenAddress": "KT1QTcAXeefhJ3iXLurRt81WRKdv7YqyYFmo",
+	"tokenId": 0,
+	"reason": 409
+},
+{
+	"symbol": "Bezos",
+	"tokenAddress": "KT1Ai2uHzf1aj5ukdwbyL82jQV4JVdFtT3nY",
+	"tokenId": 0,
+	"reason": 409
+},
+{
+	"symbol": "Bezos",
+	"tokenAddress": "KT1KdYiNTTByYQp7R3gxjc9K5rhQ2qtYdDTR",
+	"tokenId": 0,
+	"reason": 409
+},
+{
+	"symbol": "BISA",
+	"tokenAddress": "KT1BRXzrMA8qHp9RkZmftV1YLCTdNrEXXBvu",
+	"tokenId": 0,
+	"reason": 403
+},
+{
+	"symbol": "$MOZ",
+	"tokenAddress": "KT1GUnUAxdLUUPrA46hhjY7Pdv1CkppMZyXB",
+	"tokenId": 0,
+	"reason": 409
+},
+{
+	"symbol": "MYH",
+	"tokenAddress": "KT1LmNXekg1sJTGiLdf8p5i4FyZoqk1XFB8b",
+	"tokenId": 0,
+	"reason": 409
+},
+{
+	"symbol": "TED",
+	"tokenAddress": "KT1AjD9hAkXifoYtECD7wuP5ZCz1AjfjQTXJ",
+	"tokenId": 0,
+	"reason": 409
+},
+{
+	"symbol": "DOG",
+	"tokenAddress": "KT1MTKDXgAHrbA22MJuHiBRU6r8eUkuvfdRD",
+	"tokenId": 0,
+	"reason": 403
+},
+{
+	"symbol": "SCAM",
+	"tokenAddress": "KT1P2RmgwuYXwDrprrcBVX6YNHmFruwQKSwE",
+	"tokenId": 0,
+	"reason": 403
+},
+{
+	"symbol": "GIF",
+	"tokenAddress": "KT1RgYZfNphGmZzA8GdrDW8ZyoxfWvfPHRq3",
+	"tokenId": 0,
+	"reason": 403
+},
+{
+	"symbol": "TEST3",
+	"tokenAddress": "KT1LeJPiUSQkKQnLgPoHNbtG3k6Q9irTds3d",
+	"tokenId": 0,
+	"reason": 409
+},
+{
+	"symbol": "rkDAO",
+	"tokenAddress": "KT1FzK2HcGKQ7W6x94gKy8KZWw5Bdww7AvUo",
+	"tokenId": 0,
+	"reason": 403
+},
+{
+	"symbol": "rkDAO",
+	"tokenAddress": "KT1EVgxdnx9UZGNq9PTohB9gYH9zKmwf9yv8",
+	"tokenId": 0,
+	"reason": 403
+},
+{
+	"symbol": "S-RCKT",
+	"tokenAddress": "KT1X8ggJYL7YopeProUe5o3bL1MfDz2hrJTu",
+	"tokenId": 0,
+	"reason": 403
+},
+{
+	"symbol": "RCKT",
+	"tokenAddress": "KT1VUM4kxC6bassaPHH9Rypgw4a7Da6UTexe",
+	"tokenId": 0,
+	"reason": 403
+},
+{
+	"symbol": "WCK",
+	"tokenAddress": "KT1XasNSXe1F2gYP7MbEU2cqmEfdJtpuJ4hJ",
+	"tokenId": 0,
+	"reason": 403
+},
+{
+	"symbol": "GUNS",
+	"tokenAddress": "KT1C1vEApCk6xQ28z884i7jeJkSfKsLFMbUi",
+	"tokenId": 0,
+	"reason": 403
+},
+{
+	"symbol": "AMMO",
+	"tokenAddress": "KT1Lyfp1fQsNp6FRbBf14EpNiVkic6TVidBB",
+	"tokenId": 0,
+	"reason": 403
+},
+{
+	"symbol": "PNTA",
+	"tokenAddress": "KT1Di5SiUQ9Muqr8uwruzv3roigzuEss2G9o",
+	"tokenId": 0,
+	"reason": 403
+},
+{
+	"symbol": "DEAL",
+	"tokenAddress": "KT1VYZVkB6Ub63x4scxyp4gj1tGHwynUoMJC",
+	"tokenId": 0,
+	"reason": 403
+},
+{
+	"symbol": "MAGIC",
+	"tokenAddress": "KT1KHSh8ty6wVq7q9Uz3DGRnGvn7yrxbJByK",
+	"tokenId": 0,
+	"reason": 403
+},
+{
+	"symbol": "UNICORN",
+	"tokenAddress": "KT1DmR7Rq1Ke5ULzXaPjcHjfBj1k376KrR9c",
+	"tokenId": 0,
+	"reason": 403
+},
+{
+	"symbol": "ISL",
+	"tokenAddress": "KT1UDJa1u5Hd2unZZXUYH7gSSfoBkP2yGoZi",
+	"tokenId": 0,
+	"reason": 403
+},
+{
+	"symbol": "SHR",
+	"tokenAddress": "KT1C9L6o5ZYdRWc9iAgEsVBfpe3wKFop31hf",
+	"tokenId": 0,
+	"reason": 403
+}
+]
