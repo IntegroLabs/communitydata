@@ -147,5 +147,131 @@
 	"tokenAddress": "KT1C9L6o5ZYdRWc9iAgEsVBfpe3wKFop31hf",
 	"tokenId": 0,
 	"reason": 403
+},
+{
+	"symbol": "UNODAO",
+	"tokenAddress": "KT1KsK1ceRYetZmNTbtTfPjoTYyr3zHc3omC",
+	"tokenId": 0,
+	"reason": 403
+},
+{
+	"symbol": "BRD",
+	"tokenAddress": "KT1B2wWVDSHhg9J9jMtTpq7hGDM3nVHeExRY",
+	"tokenId": 0,
+	"reason": 403
+},
+{
+	"symbol": "BIRD",
+	"tokenAddress": "KT1GkBaPh5pnPYNjMvm3hCGp6Q7tay1pkbjT",
+	"tokenId": 0,
+	"reason": 403
+},
+{
+	"symbol": "QS",
+	"tokenAddress": "KT1X6VRDukq62UCfrMRzg6QVB1EMzDSbh81Z",
+	"tokenId": 0,
+	"reason": 403
+},
+{
+	"symbol": "PLENTY",
+	"tokenAddress": "KT1CU9BhZZ7zXJKwZ264xhzNx2eMNoUGVyCy",
+	"tokenId": 0,
+	"reason": 409
+},
+{
+	"symbol": "ODR",
+	"tokenAddress": "KT1KzAhxTJcXwiApWqGXn4RiF1DnJdrQfHYo",
+	"tokenId": 0,
+	"reason": 409
+},
+{
+	"symbol": "BRG",
+	"tokenAddress": "KT1NvWaKSdPPo3TEGbCRpAWYcPkFNwHvirjJ",
+	"tokenId": 0,
+	"reason": 409
+},
+{
+	"symbol": "ILTI",
+	"tokenAddress": "KT1Tvh9PxYZeqDbxF8v8RCvkGuMoYFRCMXDU",
+	"tokenId": 0,
+	"reason": 409
+},
+{
+	"symbol": "FBI",
+	"tokenAddress": "KT1K4nNb5acNLYiyBTpp4BmGMKvv2FPDRFrv",
+	"tokenId": 0,
+	"reason": 409
+},
+{
+	"symbol": "BELLS",
+	"tokenAddress": "KT1CyQ88Bwd9swBVDZF3Vw5H4VNCFb6d1nXg",
+	"tokenId": 0,
+	"reason": 409
+},
+{
+	"symbol": "MOVE",
+	"tokenAddress": "KT1Mdx7g7NxwXXhyPib8SCa1J58JRZVcammG",
+	"tokenId": 0,
+	"reason": 409
+},
+{
+	"symbol": "STR",
+	"tokenAddress": "KT1MVxThG9azXz2sBCcJjkRQErTEp7twd6dh",
+	"tokenId": 0,
+	"reason": 409
+},
+{
+	"symbol": "ASTRO",
+	"tokenAddress": "KT1BM6wDrSShVA7C7KGhbqRLgrHMkJQw6tUy",
+	"tokenId": 0,
+	"reason": 409
+},
+{
+	"symbol": "B-PHX",
+	"tokenAddress": "KT1U1eQdv1g3L7C8vi1zi5K9t365c6GqCMUU",
+	"tokenId": 0,
+	"reason": 409
+},
+{
+	"symbol": "PHX",
+	"tokenAddress": "KT1JERPhrmVmvCpqoaBbGnYRd4RTayc4ziSf",
+	"tokenId": 0,
+	"reason": 409
+},
+{
+	"symbol": "WTR",
+	"tokenAddress": "KT1D7csF3qiJ8qpAEoWXykXfi66S8sbtXTMS",
+	"tokenId": 0,
+	"reason": 409
+},
+{
+	"symbol": "Heavy",
+	"tokenAddress": "KT18zKdz3PHxDmN9C58VAWhZxQYJRMcFy1qH",
+	"tokenId": 0,
+	"reason": 409
+},
+{
+	"symbol": "CAP",
+	"tokenAddress": "KT18qpkmVoxf88t2shbeQnbXTa7jSLzbowSw",
+	"tokenId": 0,
+	"reason": 409
+},
+{
+	"symbol": "BOMB",
+	"tokenAddress": "KT1AASSrwkXNKnHmwkmEGJ54bSnFvf4YWMHd",
+	"tokenId": 0,
+	"reason": 409
+},
+{
+	"symbol": "PND",
+	"tokenAddress": "KT19745bUMrnWevwhtc7eRhw9UeMRyeMfhZG",
+	"tokenId": 0,
+	"reason": 409
+},
+{
+	"symbol": "Based",
+	"tokenAddress": "KT1TPUhn1tfnZ6V2VShDGWe2y5pQoXycrAoQ",
+	"tokenId": 1,
+	"reason": 403
 }
 ]
